@@ -1,4 +1,3 @@
-import java.util.*;
 public class Max_min_element {
     public static void maxmin(int arr[]) {
         int max = Integer.MIN_VALUE;
